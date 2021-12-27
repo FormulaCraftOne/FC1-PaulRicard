@@ -1,9 +1,10 @@
 # FC1-PaulRicard
 
+[![](https://img.shields.io/badge/-Direct%20Downlod-brightgreen?style=for-the-badge)][dl-latest] [![](https://img.shields.io/badge/-PlanetMinecraft-blue?style=for-the-badge&)][planetmc]
+
 [![YouTube Video][yt-thumbnail]][yt-vidlink]
 <img src="https://user-images.githubusercontent.com/96582306/147456667-bce5acbd-8df7-490c-8eca-ccc76996d5c8.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/147494351-01d736ff-f1ce-4772-a6c4-bedb46b296ab.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/147494294-6bb363b3-baf5-466d-8ad4-b7f7863c21ac.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/147494253-09ed6aeb-fb54-4bac-8043-02cb883539be.png" width="25%"></img>
 
-[![](https://img.shields.io/badge/-Direct%20Downlod-brightgreen?style=for-the-badge)][dl-latest] [![](https://img.shields.io/badge/-PlanetMinecraft-blue?style=for-the-badge&)][planetmc]
 
 Minecraft Ice Boat Racing follows F1 to the French GP, hosted live at the 1:1 scale recreation of the Circuit Paul Ricard!
 
