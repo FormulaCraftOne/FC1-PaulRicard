@@ -10,7 +10,7 @@ Minecraft Ice Boat Racing follows F1 to the French GP, hosted live at the 1:1 sc
 
 This map was created with terra 1:1 OSM data, to get the scaling of the roads correctly. Then, the roads were converted to ice, and the iconic blue and red paint design of Paul Ricard was laid out. The track can be changed to different layouts too!
 
-Post your fastest time here! The Appleseed Discord
+Post your fastest time here! [The Appleseed Discord][join-discord]
 
 My Socials:
 
@@ -37,3 +37,4 @@ Enjoy the drive!
 [yt-vidlink]: https://www.youtube.com/watch?v=pn-gRr92ARQ
 [yt-thumbnail]: https://img.youtube.com/vi/pn-gRr92ARQ/maxresdefault.jpg
 [planetmc]: https://www.planetminecraft.com/project/f1-paul-ricard-france-1-1-scale-ice-boat-racing-edition/
+[join-discord]: https://discord.gg/paeBnG8Csd
