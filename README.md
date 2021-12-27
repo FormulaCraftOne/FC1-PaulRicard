@@ -1,5 +1,8 @@
 # FC1-PaulRicard
 
+![image](https://user-images.githubusercontent.com/96582306/147456667-bce5acbd-8df7-490c-8eca-ccc76996d5c8.png)
+
+
 [**Direct Download**][dl-latest]
 
 Minecraft Ice Boat Racing follows F1 to the French GP, hosted live at the 1:1 scale recreation of the Circuit Paul Ricard!
