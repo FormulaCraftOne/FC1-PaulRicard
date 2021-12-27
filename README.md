@@ -32,4 +32,4 @@ This map was built by:
 Enjoy the drive!
 
 
-[dl-latest]: https://github.com/FormulaCraftOne/FC1-Monza/releases/latest/download/world.zip
+[dl-latest]: https://github.com/FormulaCraftOne/FC1-PaulRicard/releases/latest/download/world.zip
