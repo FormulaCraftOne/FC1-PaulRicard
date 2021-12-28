@@ -36,7 +36,7 @@ Enjoy the drive!
 
 
 <!-- link refrences (repo-specific)-->
-[dl-latest]: https://github.com/FormulaCraftOne/FC1-PaulRicard/releases/latest/download/world.zip
+[dl-latest]: https://git.io/FC1-PaulRicard
 [planetmc]: https://www.planetminecraft.com/project/f1-paul-ricard-france-1-1-scale-ice-boat-racing-edition/
 [yt-vidlink]: https://www.youtube.com/watch?v=pn-gRr92ARQ
 [yt-thumbnail]: https://img.youtube.com/vi/pn-gRr92ARQ/maxresdefault.jpg
