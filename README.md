@@ -1,9 +1,18 @@
 # FC1-PaulRicard
 
-[![][badge-dl]][dl-latest] [![][badge-planetmc]][planetmc]
+[![][badge-dl]][dl-latest]
+[![][badge-planetmc]][planetmc]
+[![][badge-discord]][join-discord] 
+[![][badge-patreon]][patreon]
+[![][badge-youtube]][youtube]
+[![][badge-twitch]][twitch]
+[![][badge-twitter]][twitter]
 
-[![YouTube Video][yt-thumbnail]][yt-vidlink]
-<img src="https://user-images.githubusercontent.com/96582306/147456667-bce5acbd-8df7-490c-8eca-ccc76996d5c8.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/147494351-01d736ff-f1ce-4772-a6c4-bedb46b296ab.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/147494294-6bb363b3-baf5-466d-8ad4-b7f7863c21ac.png" width="25%"></img><img src="https://user-images.githubusercontent.com/96582306/147494253-09ed6aeb-fb54-4bac-8043-02cb883539be.png" width="25%"></img>
+[![YouTube Video][yt-thumbnail]][yt-vidlink]<!--
+--><img src="https://user-images.githubusercontent.com/96582306/147456667-bce5acbd-8df7-490c-8eca-ccc76996d5c8.png" width="25%"><!--
+--><img src="https://user-images.githubusercontent.com/96582306/147494351-01d736ff-f1ce-4772-a6c4-bedb46b296ab.png" width="25%"><!--
+--><img src="https://user-images.githubusercontent.com/96582306/147494294-6bb363b3-baf5-466d-8ad4-b7f7863c21ac.png" width="25%"><!--
+--><img src="https://user-images.githubusercontent.com/96582306/147494253-09ed6aeb-fb54-4bac-8043-02cb883539be.png" width="25%">
 
 
 Minecraft Ice Boat Racing follows F1 to the French GP, hosted live at the 1:1 scale recreation of the Circuit Paul Ricard!
@@ -33,17 +42,25 @@ This map was built by:
 Enjoy the drive!
 
 
-
-
 <!-- link refrences (repo-specific)-->
-[dl-latest]: https://git.io/FC1-PaulRicard
+[dl-latest]: https://github.com/FormulaCraftOne/FC1-PaulRicard/releases/latest/download/FC1-PaulRicard.zip
 [planetmc]: https://www.planetminecraft.com/project/f1-paul-ricard-france-1-1-scale-ice-boat-racing-edition/
 [yt-vidlink]: https://www.youtube.com/watch?v=pn-gRr92ARQ
 [yt-thumbnail]: https://img.youtube.com/vi/pn-gRr92ARQ/maxresdefault.jpg
 
-
 <!-- link refrences (not repo-specific)-->
-[dl-texture]: https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
+[dl-texture]:   https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
 [join-discord]: https://discord.gg/paeBnG8Csd
-[badge-dl]: https://img.shields.io/badge/-Direct%20Downlod-brightgreen?style=for-the-badge
+[twitter]:      https://twitter.com/AdamsApplesPie
+[twitch]:       https://www.twitch.tv/adamsapplelive
+[youtube]:      https://www.youtube.com/c/AdamsApples
+[patreon]:      https://www.patreon.com/AdamsApples
+
+<!-- Shields.io Badge Images -->
+[badge-dl]:       https://img.shields.io/badge/-Direct%20Downlod-brightgreen?style=for-the-badge
 [badge-planetmc]: https://img.shields.io/badge/-PlanetMinecraft-blue?style=for-the-badge
+[badge-discord]:  https://img.shields.io/discord/417802132733952010?label=&logo=Discord&style=social
+[badge-twitter]:  https://img.shields.io/badge/--white?style=social&logo=twitter
+[badge-twitch]:   https://img.shields.io/badge/--white?style=social&logo=twitch
+[badge-youtube]:  https://img.shields.io/badge/--white?style=social&logo=youtube
+[badge-patreon]:  https://img.shields.io/badge/--white?style=social&logo=patreon
